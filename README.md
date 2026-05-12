@@ -4,7 +4,8 @@ Automated API test suite for the **Notepad REST Service** at `https://notepad.ne
 Built with **Microsoft Playwright for Java**, **JUnit 5**, **AssertJ**, and **Allure Reports**.
 
 ---
-
+## TEST CASES
+src/test/resources/notepad-api-test-cases.xlsx
 ## Table of Contents
 
 - [Overview](#overview)
@@ -379,3 +380,4 @@ pipeline {
 3. Use `@Story`, `@Severity`, and `@DisplayName` annotations so the Allure report stays organised.
 4. Add a helper method if your test needs pre-created data — never rely on IDs or state from other tests.
 5. Update `notepad-api-test-cases.xlsx` to document any new test cases.
+
