@@ -1,0 +1,11 @@
+com\neuroval\notepad\models\EditNoteRequest$EditNoteRequestBuilder.class
+com\neuroval\notepad\models\SaveNoteRequest.class
+com\neuroval\notepad\tests\NoteEditTest.class
+com\neuroval\notepad\config\ApiConfig.class
+com\neuroval\notepad\config\BaseTest.class
+com\neuroval\notepad\tests\NoteGetAllTest.class
+com\neuroval\notepad\models\EditNoteRequest.class
+com\neuroval\notepad\tests\NoteLifecycleE2ETest.class
+com\neuroval\notepad\models\SaveNoteRequest$SaveNoteRequestBuilder.class
+com\neuroval\notepad\tests\NoteDeleteTest.class
+com\neuroval\notepad\tests\NoteSaveTest.class

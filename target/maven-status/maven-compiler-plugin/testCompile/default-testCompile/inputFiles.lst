@@ -1,0 +1,9 @@
+C:\Users\biyik\IdeaProjects\notepad-api-tests\src\test\java\com\neuroval\notepad\config\ApiConfig.java
+C:\Users\biyik\IdeaProjects\notepad-api-tests\src\test\java\com\neuroval\notepad\config\BaseTest.java
+C:\Users\biyik\IdeaProjects\notepad-api-tests\src\test\java\com\neuroval\notepad\models\EditNoteRequest.java
+C:\Users\biyik\IdeaProjects\notepad-api-tests\src\test\java\com\neuroval\notepad\models\SaveNoteRequest.java
+C:\Users\biyik\IdeaProjects\notepad-api-tests\src\test\java\com\neuroval\notepad\tests\NoteDeleteTest.java
+C:\Users\biyik\IdeaProjects\notepad-api-tests\src\test\java\com\neuroval\notepad\tests\NoteEditTest.java
+C:\Users\biyik\IdeaProjects\notepad-api-tests\src\test\java\com\neuroval\notepad\tests\NoteGetAllTest.java
+C:\Users\biyik\IdeaProjects\notepad-api-tests\src\test\java\com\neuroval\notepad\tests\NoteLifecycleE2ETest.java
+C:\Users\biyik\IdeaProjects\notepad-api-tests\src\test\java\com\neuroval\notepad\tests\NoteSaveTest.java
